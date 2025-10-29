@@ -71,7 +71,7 @@ Visualizations make it easier to compare model performance and understand classi
 *shows the perfomance of all models after SMOTE.*
 
 ### 2. Unsampled Model Comparison
-![Unsampled_model](images/f1_score_comparison.png)  
+![Unsampled_model](https://github.com/Scvrfvce/Hate-speech-classifier/blob/2946df115deeab49efdd465493b0c474b01c64a4/Model%20training%20perfomance%20Unsampled.png)  
 *shows perfomance of all models before SMOTE .*
 
 ### 3. Confusion Matrix for Sampled Random Forest model

@@ -75,7 +75,7 @@ Visualizations make it easier to compare model performance and understand classi
 *shows perfomance of all models before SMOTE .*
 
 ### 3. Confusion Matrix for Sampled Random Forest model
-![Confusion Matrix](images/rf_confusion_matrix.png)  
+![Confusion Matrix](Sampled Random forest model.png)  
 *Shows how well the Random Forest model predicts each class.*
 
 

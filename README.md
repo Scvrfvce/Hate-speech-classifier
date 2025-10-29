@@ -67,7 +67,7 @@ Steps performed:
 Visualizations make it easier to compare model performance and understand classification behavior.
 
 ### 1. Sampled Model Comparison
-![Sampled_model]()  
+![Sampled_model](https://github.com/Scvrfvce/Hate-speech-classifier/blob/2946df115deeab49efdd465493b0c474b01c64a4/Model%20training%20perfomance%20sampled.png)  
 *shows the perfomance of all models after SMOTE.*
 
 ### 2. Unsampled Model Comparison

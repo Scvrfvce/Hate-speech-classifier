@@ -75,7 +75,7 @@ Visualizations make it easier to compare model performance and understand classi
 *shows perfomance of all models before SMOTE .*
 
 ### 3. Confusion Matrix for Sampled Random Forest model
-![Confusion Matrix](Sampled Random forest model.png)  
+![Confusion Matrix](https://github.com/Scvrfvce/Hate-speech-classifier/blob/2946df115deeab49efdd465493b0c474b01c64a4/Sampled%20Random%20forest%20model.png))  
 *Shows how well the Random Forest model predicts each class.*
 
 
